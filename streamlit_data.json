@@ -1,0 +1,18 @@
+{
+    "stories": {
+        "Man Jumping From Car": {
+            "Page 1": {
+                "url": "https://s.mj.run/ZzD9VqAbPCA",
+                "prompt": "a man in a superhero suit with a cape , facing the camera, is jumping over a car in the street with a car in the background, promotional image, a screenshot, action, action movie, --ar 2:1 --chaos 1 --no animated, sunglasses --v 5.2 --style raw",
+                "description": "{name} was a super hero when {pronoun1} was young, no one could ever stop {pronoun2}. {pronoun1} was the strongest person ever."
+            }
+        },
+        "Test": {
+            "Page 1": {
+                "url": "https://cdn.discordapp.com/attachments/1141375301570535505/1155883860190564423/1_cover-1.png?ex=651b85fb&is=651a347b&hm=6f78f40250906f6b3c7dd9ccdc4467b4744a70da210803a3500340c1f47be41f&",
+                "prompt": "3 year-old boy with bald round head, looking up in the sky, sitting in a field of grass and flowers, holding a bright heart-shaped glowing crystal in his hands, night, dark, moonlight, warm light, full body shot",
+                "description": ""
+            }
+        }
+    }
+}
